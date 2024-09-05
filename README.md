@@ -1,4 +1,4 @@
-# # Tic-Tac-Toe Game in Java
+#  Tic-Tac-Toe Game in Java
 
 ## Overview
 This is a simple command-line based implementation of the classic Tic-Tac-Toe game written in Java. The game is designed for two players, where they take turns to place their marks ('X' and 'O') on a 3x3 grid. The objective is to get three of their marks in a row—horizontally, vertically, or diagonally—before their opponent does.
@@ -48,15 +48,10 @@ This is a simple command-line based implementation of the classic Tic-Tac-Toe ga
 - Implement a single-player mode with an AI opponent.
 - Add difficulty levels for the AI.
 
-## License
-This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it.
 
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue to discuss any changes.
 
 ## Contact
 For any questions or feedback, please feel free to reach out.
-
----
-
 Enjoy playing Tic-Tac-Toe!
